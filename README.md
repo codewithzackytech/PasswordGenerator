@@ -1,2 +1,1 @@
-# PasswordGenerator
-PasswordGenerator CLI app
+
